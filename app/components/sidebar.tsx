@@ -251,7 +251,7 @@ export function SideBar(props: { className?: string }) {
     >
       <SideBarHeader
         title="NextChat"
-        subTitle="Build your own AI assistant. \n关注公众号 于木禾AI 发送 AICHAT 获取code码 畅享AI聊天"
+        subTitle="关注公众号“于木禾AI”,发送 AICHAT 获取code码,设置->访客密码中填入返回的code即可畅享AI聊天。 "
         logo={<ChatGptIcon />}
         shouldNarrow={shouldNarrow}
       >
